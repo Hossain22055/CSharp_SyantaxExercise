@@ -1,0 +1,13 @@
+C:\Users\hossa\repos\SyantaxExercise\SyantaxExercise\bin\Debug\netcoreapp3.1\SyantaxExercise.exe
+C:\Users\hossa\repos\SyantaxExercise\SyantaxExercise\bin\Debug\netcoreapp3.1\SyantaxExercise.deps.json
+C:\Users\hossa\repos\SyantaxExercise\SyantaxExercise\bin\Debug\netcoreapp3.1\SyantaxExercise.runtimeconfig.json
+C:\Users\hossa\repos\SyantaxExercise\SyantaxExercise\bin\Debug\netcoreapp3.1\SyantaxExercise.runtimeconfig.dev.json
+C:\Users\hossa\repos\SyantaxExercise\SyantaxExercise\bin\Debug\netcoreapp3.1\SyantaxExercise.dll
+C:\Users\hossa\repos\SyantaxExercise\SyantaxExercise\bin\Debug\netcoreapp3.1\SyantaxExercise.pdb
+C:\Users\hossa\repos\SyantaxExercise\SyantaxExercise\obj\Debug\netcoreapp3.1\SyantaxExercise.csprojAssemblyReference.cache
+C:\Users\hossa\repos\SyantaxExercise\SyantaxExercise\obj\Debug\netcoreapp3.1\SyantaxExercise.AssemblyInfoInputs.cache
+C:\Users\hossa\repos\SyantaxExercise\SyantaxExercise\obj\Debug\netcoreapp3.1\SyantaxExercise.AssemblyInfo.cs
+C:\Users\hossa\repos\SyantaxExercise\SyantaxExercise\obj\Debug\netcoreapp3.1\SyantaxExercise.csproj.CoreCompileInputs.cache
+C:\Users\hossa\repos\SyantaxExercise\SyantaxExercise\obj\Debug\netcoreapp3.1\SyantaxExercise.dll
+C:\Users\hossa\repos\SyantaxExercise\SyantaxExercise\obj\Debug\netcoreapp3.1\SyantaxExercise.pdb
+C:\Users\hossa\repos\SyantaxExercise\SyantaxExercise\obj\Debug\netcoreapp3.1\SyantaxExercise.genruntimeconfig.cache
